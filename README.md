@@ -12,7 +12,7 @@
 
 ## Implementation Status
 - Python Scapy를 이용하여 Beacon 조작 및 전송.
-  - Scapy : https://scapy.readthedocs.io/en/latest/index.html(https://scapy.readthedocs.io/en/latest/index.html)
+  - Scapy : [https://scapy.readthedocs.io/en/latest/index.html](https://scapy.readthedocs.io/en/latest/index.html)
   - Python 3.10 기준으로 작성.
 - Client 측에서 Beacon 수신하는 코드 분석.
 
